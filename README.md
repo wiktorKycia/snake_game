@@ -14,7 +14,7 @@ First, you have to have [gcc](https://gcc.gnu.org/) installed and ready to use i
 
 Then you need the code to compile
 ```sh
-git clone
+git clone https://github.com/wiktorKycia/snake_game.git
 ```
 
 Then you need to compile the code
