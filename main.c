@@ -254,6 +254,6 @@ int main()
         usleep(1000 * 1000);//microseconds
     }
     system("clear");
-    printf("GAME OVER");
+    printf("GAME OVER\n");
     return 0;
 }
